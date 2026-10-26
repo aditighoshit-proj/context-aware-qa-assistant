@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "How many annual leave days do full-time employees receive each year?",
+    "answerable": true
+  },
+  {
+    "id": 2,
+    "question": "Can employees carry forward more than 10 days of annual leave?",
+    "answerable": true
+  },
+  {
+    "id": 3,
+    "question": "When do carried-forward annual leave days expire?",
+    "answerable": true
+  },
+  {
+    "id": 4,
+    "question": "How far in advance should annual leave be requested?",
+    "answerable": true
+  },
+  {
+    "id": 5,
+    "question": "How many paid sick leave days are provided per year?",
+    "answerable": true
+  },
+  {
+    "id": 6,
+    "question": "When is a medical certificate needed for sick leave?",
+    "answerable": true
+  },
+  {
+    "id": 7,
+    "question": "Does sick leave carry over into the next year?",
+    "answerable": true
+  },
+  {
+    "id": 8,
+    "question": "How many days per week can employees work remotely with approval?",
+    "answerable": true
+  },
+  {
+    "id": 9,
+    "question": "Who approves remote work?",
+    "answerable": true
+  },
+  {
+    "id": 10,
+    "question": "How long is paid parental leave for eligible employees?",
+    "answerable": true
+  },
+  {
+    "id": 11,
+    "question": "How long must an employee work before being eligible for parental leave?",
+    "answerable": true
+  },
+  {
+    "id": 12,
+    "question": "Within how many days must business expenses be submitted?",
+    "answerable": true
+  },
+  {
+    "id": 13,
+    "question": "For what expense amount are receipts required?",
+    "answerable": true
+  },
+  {
+    "id": 14,
+    "question": "What is the annual learning and development budget limit?",
+    "answerable": true
+  },
+  {
+    "id": 15,
+    "question": "How many members can the Basic plan support?",
+    "answerable": true
+  },
+  {
+    "id": 16,
+    "question": "Who can export workspace records?",
+    "answerable": true
+  },
+  {
+    "id": 17,
+    "question": "What is the company's CEO's favourite colour?",
+    "answerable": false
+  },
+  {
+    "id": 18,
+    "question": "What is the employee's exact salary band?",
+    "answerable": false
+  },
+  {
+    "id": 19,
+    "question": "How many annual leave days can be carried forward after March 31?",
+    "answerable": false
+  },
+  {
+    "id": 20,
+    "question": "What is the product's exact Plus plan monthly price?",
+    "answerable": false
+  },
+  {
+    "id": 21,
+    "question": "Which city is the company's headquarters in?",
+    "answerable": false
+  },
+  {
+    "id": 22,
+    "question": "What is the Wi-Fi password at the office?",
+    "answerable": false
+  },
+  {
+    "id": 23,
+    "question": "How many sick leave days can be carried forward?",
+    "answerable": true
+  },
+  {
+    "id": 24,
+    "question": "What are support hours in India Standard Time?",
+    "answerable": true
+  }
+]

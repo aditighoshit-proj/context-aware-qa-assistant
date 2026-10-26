@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+  <rect width="1000" height="650" fill="#f6f8fb"/>
+  <rect x="0" y="0" width="1000" height="64" fill="#ffffff"/>
+  <text x="44" y="42" font-family="Arial" font-size="25" font-weight="700" fill="#25324a">📚 Context-Aware Q&amp;A Assistant</text>
+  <text x="44" y="96" font-family="Arial" font-size="15" fill="#5b6475">Answers are grounded only in the supplied knowledge base.</text>
+  <rect x="44" y="128" width="912" height="92" rx="12" fill="#ffffff" stroke="#d9e0ea"/>
+  <text x="68" y="158" font-family="Arial" font-size="13" fill="#5b6475">ASK A QUESTION</text>
+  <text x="68" y="190" font-family="Arial" font-size="18" fill="#29364d">Can employees carry forward more than 10 days of leave?</text>
+  <rect x="44" y="238" width="912" height="130" rx="12" fill="#e8f5ed" stroke="#b9dec7"/>
+  <text x="68" y="272" font-family="Arial" font-size="17" font-weight="700" fill="#1d6a3a">Answer from the knowledge base</text>
+  <text x="68" y="305" font-family="Arial" font-size="16" fill="#234633">Full-time employees may carry forward unused annual leave</text>
+  <text x="68" y="330" font-family="Arial" font-size="16" fill="#234633">up to a maximum of 10 days.</text>
+  <rect x="44" y="388" width="912" height="200" rx="12" fill="#ffffff" stroke="#d9e0ea"/>
+  <text x="68" y="424" font-family="Arial" font-size="19" font-weight="700" fill="#25324a">Evidence used</text>
+  <text x="68" y="456" font-family="Arial" font-size="14" font-weight="700" fill="#5b6475">employee_handbook.md — Annual Leave</text>
+  <text x="68" y="490" font-family="Arial" font-size="15" fill="#29364d">“Unused annual leave may be carried forward into the next calendar year,</text>
+  <text x="68" y="515" font-family="Arial" font-size="15" fill="#29364d">up to a maximum of 10 days.”</text>
+  <text x="68" y="562" font-family="Arial" font-size="13" fill="#7a8495">Illustrative preview — run app.py with Streamlit for the live interface.</text>
+</svg>
