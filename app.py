@@ -16,10 +16,10 @@ with st.sidebar:
     for name in engine.source_names:
         st.write(f"• `{name}`")
     st.divider()
-    st.write("**Grounding rules**")
-    st.write("- Use retrieved source passages only.")
-    st.write("- Cite the source file and section.")
-    st.write("- Say when the answer is not available.")
+    # st.write("**Grounding rules**")
+    # st.write("- Use retrieved source passages only.")
+    # st.write("- Cite the source file and section.")
+    # st.write("- Say when the answer is not available.")
 
 question = st.text_input("Ask a question", placeholder="e.g. How many annual leave days can be carried forward?")
 if st.button("Get answer", type="primary", disabled=not question.strip()):
